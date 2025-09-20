@@ -9,7 +9,7 @@ Prerrequisitos
 
 Pasos para ejecutar el sitio HTML
 1. Descargar los archivos y luego descomprimir
-https://github.com/leykerSV/estandares/archive/refs/heads/main.zip
+[https://github.com/leykerSV/estandares/archive/refs/heads/main.zip](https://github.com/leykerSV/estandares/tree/first-version)
 
 Primero, descarga todos los archivos del sitio web en una carpeta de tu computadora.
 2. Navegar a la carpeta del proyecto
