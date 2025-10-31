@@ -1,0 +1,26 @@
+{
+  "name": "estandares",
+  "version": "1.0.0",
+  "description": "Ejercicio UNL Estandares web",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leykerSV/estandares.git"
+  },
+  "author": "Danilo Leyendeker",
+  "license": "CC-BY-SA-4.0",
+  "bugs": {
+    "url": "https://github.com/leykerSV/estandares/issues"
+  },
+  "homepage": "https://github.com/leykerSV/estandares#readme",
+  "dependencies": {
+    "datetimepicker": "^0.1.39",
+    "express": "^5.1.0",
+    "nodemailer": "^7.0.10",
+    "telegram": "^2.26.22"
+  }
+}
