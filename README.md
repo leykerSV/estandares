@@ -7,19 +7,17 @@ Prerrequisitos
 
     Un editor de código (opcional, para hacer modificaciones)
 
-Pasos para ejecutar el sitio HTML
-1. Descargar los archivos y luego descomprimir
+Pasos para ejecutar el sitio con npm
+1. Instalar node en nuestro sistema:
+Ejemplo:
+    # Actualizar el índice de paquetes
+    sudo apt update
+
+    # Instalar Node.js (npm se instala automáticamente con este paquete)
+    sudo apt install nodejs
+
+2. Descargar los archivos y luego descomprimir
 [https://github.com/leykerSV/estandares/archive/refs/heads/main.zip](https://github.com/leykerSV/estandares/tree/first-version)
 
-Primero, descarga todos los archivos del sitio web en una carpeta de tu computadora.
-2. Navegar a la carpeta del proyecto
-
-Abre la carpeta donde guardaste los archivos del sitio web.
-3. Ejecutar el sitio web
-
-    Doble clic (más simple)
-
-    Localiza el archivo index.html en la carpeta
-
-    Haz doble clic sobre él para abrirlo en tu navegador predeterminado
+3. Correr el comando npm start. Abrir un navegador e ir a la dirección http://localhost:3000
 
